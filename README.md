@@ -81,7 +81,6 @@ Apart from the pinned repositories, I have built:
 - ![Docker Icon](https://img.icons8.com/fluency/48/000000/docker.png) **[TFAP in KIND Project](https://github.com/xinlin2333/tfap-in-kind)** - Used Shell, Helm, and Docker technologies for integrated development in KIND, achieving a streamlined one-click deployment of the UFES-KIND environment
 ---
 
-
 ### 📈 GitHub Stats
 
 <div style="display: flex; justify-content: space-between;">
