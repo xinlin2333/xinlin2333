@@ -84,8 +84,8 @@ Apart from the pinned repositories, I have built:
 ### 📈 GitHub Stats
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=xinlin2333&show_icons=true&theme=radical" alt="Xinlin Yang's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xinlin2333&theme=radical" alt="Xinlin Yang's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xinlin2333&show_icons=true&theme=radical" alt="Xinlin Yang's GitHub Stats" style="width: 40%;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xinlin2333&theme=radical" alt="Xinlin Yang's GitHub Streak" style="width: 42%;" />
 </div>
 
 ---
