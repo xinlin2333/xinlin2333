@@ -44,28 +44,6 @@
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=springboot)
 ![Distributed Systems](https://img.shields.io/badge/-Distributed%20Systems-FF6C37?style=flat-square&logo=apache)
 
-#### Computer Science
-
-![Computer Networks](https://img.shields.io/badge/-Computer%20Networks-007396?style=flat-square&logo=network)
-![Data Structures](https://img.shields.io/badge/-Data%20Structures-FF6F00?style=flat-square&logo=data)
-![Object-Oriented Design](https://img.shields.io/badge/-Object--Oriented%20Design-8A2BE2?style=flat-square&logo=design)
-
-### 📊 Language Distribution and Blogs
-
-<div>
-     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinlin2333&layout=compact&theme=radical" alt="Xinlin's Language Stats" />
-  <div align="right">
-    <h3>📝 Featured Blogs/Articles</h3>
-    <ul>
-      <li><a href="https://your-blog-link.com">A Developer’s Story – Xinlin YANG</a></li>
-      <li><a href="https://your-blog-link.com">10 lessons I've learned as a Software Engineer</a></li>
-    </ul>
-  </div>
-</div>
-
-<br clear="both" />
-
-
 ---
 
 ### Projects
