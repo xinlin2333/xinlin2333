@@ -1,4 +1,4 @@
-# Hello, I'm Xinlin YANG 👋
+# Hello, I'm Canoe YANG 👋
 
 ---
 
